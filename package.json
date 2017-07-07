@@ -1,0 +1,23 @@
+{
+  "name": "securerestapi",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Deva Karthik",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.5",
+    "bunyan-winston-adapter": "^0.2.0",
+    "dotenv-extended": "^1.0.4",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.21",
+    "restify": "^4.3.0",
+    "restify-errors": "^4.3.0",
+    "winston": "^2.3.1"
+  }
+}
